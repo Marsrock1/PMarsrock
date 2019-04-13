@@ -338,4 +338,4 @@ async def unban(ctx, user: discord.Member = None):
         embed.set_footer(icon_url=author.avatar_url, text="Permission Check Is Necassary!")
         await client.say(embed=embed)
 
-client.run(str(os.environ.get('NTY2NzA4OTgyNzI3NzA0NTc2.XLI7Mw.f5hUnZPWH7Y-tgu4Imtrc6EPmo8')))
+client.run(str(os.environ.get('BOT_TOKEN')))
