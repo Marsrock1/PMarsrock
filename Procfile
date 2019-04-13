@@ -1,1 +1,1 @@
-worker: python format.py
+worker: python bot.py
