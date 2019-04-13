@@ -1,5 +1,14 @@
 discord
+datetime
+time
 asyncio
-Pymoe
+random
+json
+commands
+Bot
 youtube_dl
-pip
+cycle
+requests
+praw
+os
+aiohttp
