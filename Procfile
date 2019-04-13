@@ -1,1 +1,1 @@
-worker: format.py
+worker: python format.py
